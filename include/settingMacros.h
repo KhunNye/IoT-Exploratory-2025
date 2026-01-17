@@ -49,8 +49,8 @@ SensorData sensorData;
 InputData inputData;
 
 // SSID and PASSWORD of your WiFi network.
-const char* ssid = "Exploratory";  //--> Your wifi name
-const char* password = "!tggs2025"; //--> Your wifi password
+const char* ssid = "xxxxx";  //--> Your wifi name
+const char* password = "xxxxx"; //--> Your wifi password
 
 // MQTT Broker details
 const char* mqttServer = "202.44.44.233";
