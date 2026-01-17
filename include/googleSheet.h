@@ -1,7 +1,7 @@
 #include <settingMacros.h>
 
 // Google script Web_App_URL.
-String Web_App_URL = "https://script.google.com/macros/s/AKfycbwsQRs3pbaJDZUWB9nfNkdcbuCjUBjfDXAOtLOtxHe_SpgLM-dNTkcJUlrP_mg7CFKq/exec";
+String Web_App_URL = "xxxxx";
 
 void googleSheetWrite(){ 
   // ✅ Check if WiFi is connected
